@@ -1,3 +1,3 @@
 # Velkapp
 
-Little android app to stroe your friends bank accounts.
+Little android app to store your friends bank accounts.

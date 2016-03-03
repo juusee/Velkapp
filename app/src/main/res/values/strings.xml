@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Velkapp</string>
+    <string name="input_name">Name</string>
+    <string name="input_account">IBAN account</string>
+
+    <string name="error_name">Not valid name</string>
+    <string name="error_iban">Not valid IBAN account</string>
+    <string name="error_duplicate">You have same account already. Remove older or modify this</string>
+
+    <string name="account_add">Add new account</string>
+    <string name="account_delete">Do you really want to delete this account?</string>
+    <string name="account_edit">Edit account</string>
+
+    <string name="button_apply">Apply changes</string>
+    <string name="button_add">Add</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+</resources>
